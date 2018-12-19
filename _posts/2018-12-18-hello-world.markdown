@@ -1,5 +1,6 @@
 ---
 title:  "Hello, world."
+layout: post
 date:   2018-12-18 11:18:49 -0500
 categories: admin
 ---
