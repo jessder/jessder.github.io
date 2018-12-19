@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: page
 title: About
-permalink: /about/
 ---
 
 "Collaborative Disagreement" refers to a process that any group of people can
