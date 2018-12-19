@@ -12,18 +12,13 @@ description:      >-
   Stray thoughts about who we are,
   how to relate to each other,
   and how to think more clearly.
-# url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
   name:           Jesse Anderton
-  # url:            https://twitter.com/mdo
   email:          jessder@pm.me
 
 paginate:         5
 
 # Custom vars
 version:          0.1.0
-
-# github:
-#   repo:           https://github.com/poole/hyde
